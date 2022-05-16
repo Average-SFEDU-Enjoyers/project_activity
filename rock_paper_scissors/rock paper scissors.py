@@ -11,7 +11,7 @@ import random
 
 
 def clear():
-    os.system('CLS')
+    print('\n'*50)
 
 
 def player_step():
